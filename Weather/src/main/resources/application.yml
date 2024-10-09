@@ -1,0 +1,4 @@
+spring:
+  application: weatherapp
+server:
+  port: 9505
